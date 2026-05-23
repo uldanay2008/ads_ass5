@@ -71,7 +71,7 @@ To 3 = 4
 To 4 = 7
 ```
 
-![Output](Screenshot%2026-05-23%115700.png)
+![Output](screenads5.png)
 
 ---
 
